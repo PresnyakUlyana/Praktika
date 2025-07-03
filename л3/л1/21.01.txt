@@ -1,0 +1,16 @@
+Z:
+ cd "1---è¨¤--4(Ž‘‘’_‡‚……‚ )"
+ cd "à¥á­ïª “«ìï­ "
+ COPY CON my.txt
+Alekseev
+Volkov
+Sidorov
+Ivanov
+Petrov
+ 
+ TYPE my.txt
+ SORT my.txt
+ SORT my.txt>my2.txt
+ doskey /history
+doskey /history> 21.01
+doskey /history >21.01.txt
